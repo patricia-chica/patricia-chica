@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @patricia-chica
-- 👀 I’m interested in data analytics and web development 
+- 👀 I’m interested in Data Science and Web Development 
 - 🌱 I’m currently learning Tableau
 - 💞️ I’m looking to collaborate on anything that offers me to learn 
 - 📫 How to reach me you can email me to patricia.chica8444@gmail.com
